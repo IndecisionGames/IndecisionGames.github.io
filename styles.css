@@ -1,0 +1,21 @@
+h1 { 
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  min-width: 600px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.construction {
+  position: absolute;
+  top: 80%;
+}
